@@ -11,9 +11,9 @@ description: 收集推荐值得使用的较为稳定可靠的机场信息
 **注意！！：机场不是法外之地，万不能用于非法用途，或者发表不恰当言论，只能用于正常工作或者查资料，不然都可以找到你，不要有侥幸心理**
 
 1. 试用过的几个汇总在这，下面有相对详细的信息
-2. 求使用稳定地最好20块/月起的，用了✔️[_老猫云_](https://laomao.co/#/register?code=QiVFXFWX)，✔️[_可乐云_](https://user.colacloud.net/#/register?code=gMK5qO9s)
+2. 求使用稳定地最好20块/月起的，用了✔️[_老猫云_](./#yi-lao-mao-yun-20-yue-100g)，✔️[_可乐云_](https://user.colacloud.net/#/register?code=gMK5qO9s)
 3. 想要便宜的，10块/月左右机场：✔️[_TaiShan(6/月64G)_](https://www.taishan.pro/#/register?code=Z4Y90y3y)、✔️[_泡泡狗(7.5/月70G)_](https://www.paopao.dog/#/register?code=e9r22fNS)
-4. 能注册免费试用的：✔️[_大哥云（10G一天）_](https://ab12y.com/#/register?code=6vTa3zI7)，✔️[_TaiShan(5G一天)_](https://www.taishan.pro/#/register?code=Z4Y90y3y)，[_大讯云（10G两天）_](https://daxun.info/#/register?code=VLAYLLaS)，
+4. 能注册免费试用的：✔️[_TaiShan(5G一天)_](https://www.taishan.pro/#/register?code=Z4Y90y3y)
 5. 求极致稳定可靠，不太在乎价格的选[_Just my sock_](https://justmysocks.net/members/aff.php?aff=28042)，搬瓦工官方机场，唯一国外正规大公司。
 
 更多可注册试用流量白嫖的机场，可参考我的另一篇总结，✔️[_注册可免费试用的机场_](https://www.openwayz.com/trialnode/)
@@ -61,46 +61,18 @@ description: 收集推荐值得使用的较为稳定可靠的机场信息
 
 **套餐:**
 
-* 7.5￥/月 70G流量
+* 8.8￥/月 70G流量
 * 12.5￥/月 110G流量
 * 20￥/月 210G流量
-* 33￥/月 380G流量
 * 45￥/月 600G流量
 * 30￥ 不限时150G流量
 * 60￥ 不限时300G流量
 
-#### 四、大讯云(10/月80G) 注册免费试用
-
-注册送两天10G流量。
-
-[大讯云官网](https://daxun.info/#/register?code=VLAYLLaS)
-
-**套餐:**
-
-|  套餐  |   流量   |   价格  | 客户端数目 |
-| :--: | :----: | :---: | :---: |
-| 初级会员 |  80G/月 | 10￥/月 |   2   |
-| 中级会员 | 150G/月 | 20￥/月 |   5   |
-| 高级会员 | 520G/月 | 25￥/月 |   10  |
-
-#### 五、大哥云(19/月100G) 注册免费试用
-
-开业时间2020年，注册送1天10G流量，IPLC专线和隧道中转，原生IP节点多。
-
-[大哥云官网](https://ab12y.com/#/register?code=6vTa3zI7)
-
-**套餐:**
-
-|  套餐 |   流量   |    价格   | 客户端数目 |
-| :-: | :----: | :-----: | :---: |
-| 套餐A | 100G/月 | 19.9￥/月 |   3   |
-| 套餐B | 150G/月 | 29.9￥/月 |   3   |
-
-#### 六、TaiShan(6￥/月64G) 注册免费试用
+#### 四、TaiShan(6￥/月64G) 注册免费试用
 
 开业时间2022年，注册送5G流量一天试用，机场价格比较优惠，技术和运营也维护的很积极，我买了个150G不限时流量包做备用，没有哪个机场一直稳定，总得有个备用的避免哪天赶巧了要用却出不去。
 
-[TaiShan官网地址](https://www.taishan.pro/#/register?code=Z4Y90y3y)
+[TaiShan官网地址](https://us.taishan.pro/#/register?code=Z4Y90y3y)
 
 **套餐：**
 
@@ -111,7 +83,7 @@ description: 收集推荐值得使用的较为稳定可靠的机场信息
 |  高端 | 256G/月 |  18￥/月;54/季;86/半年 |
 |  至尊 | 512G/月 | 32￥/月;86/季;153/半年 |
 
-#### 七、Just my sock(5.8$/月500G) 搬瓦工官方机场
+#### 五、Just my sock(5.8$/月500G) 搬瓦工官方机场
 
 搬瓦工官方机场，唯一我所知的正规大公司,非私人机场，安全无审计，开业时间2018年，注册需要科学上网，可以先注册上面的可免费试用的机场，然后使用临时订阅访问Justmysock官网注册，这机场优点主要是正规海外大公司，数据安全，没什么跑路风险，买的话月付有点贵，至少季付吧，不担心跑路，多买点还多优惠一些。
 
