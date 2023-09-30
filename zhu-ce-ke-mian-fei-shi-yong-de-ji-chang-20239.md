@@ -12,7 +12,7 @@ description: 注册以后可以免费试用的机场
 
 * [_大讯云（10G两天）_](https://daxun.info/#/register?code=VLAYLLaS)
 * [_大哥云（10G一天）_](https://ab12y.com/#/register?code=6vTa3zI7)
-* [_TaiShan(5G一天)_](https://www.taishan.pro/#/register?code=Z4Y90y3y)
+* [_TaiShan(5G一天)_](https://us.taishan.pro/#/register?code=Z4Y90y3y)
 * [_SSRdog(3G一天)_](https://dog.ssrdog111.com/#/register?code=O0dxApsX)
 * [_奈云(5G三天)_](https://naiunny.store/#/register?code=KfeBrj3u)
 * [_极光加速(10G两天) 节点很多_](https://jgjs02.com/#/register?code=WRLKZyUS)
