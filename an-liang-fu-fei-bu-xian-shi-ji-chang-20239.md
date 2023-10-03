@@ -83,8 +83,8 @@ SSRDOG IPLC/IEPL专线机场，注册可免费试用24小时3G流量，有包月
 
 98￥/280GB
 
-可注册试用流量白嫖的机场，可参考，✔️[_注册可免费试用的机场_](https://www.openwayz.com/trialnode/)\
-个人使用过值得付费的机场，可参考，✔️[_用过的付费机场机场_](https://www.openwayz.com/jichang/)
+可注册试用流量白嫖的机场，可参考，✔️[_注册可免费试用的机场_](http://clashwin.org/freetrail/)\
+个人使用过值得付费的机场，可参考，✔️[用过的付费机场](https://clashwin.org/jichangtuijian/)
 
 #### Telegram
 

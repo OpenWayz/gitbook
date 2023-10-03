@@ -4,7 +4,7 @@ description: Clash,ClashX代理软件客户端下载汇总
 
 # Clash等网络代理客户端下载
 
-Windows、Android、macOS、iOS 系统客户端下载地址汇总，🔥[_**可用的机场可点这里看看**_](https://www.openwayz.com/jichang/) Tag:Clash,Shadowrocket。
+Windows、Android、macOS、iOS 系统客户端下载地址汇总，🔥[_**可用的机场可点这里看看**_](https://clashwin.org/jichangtuijian/) Tag:Clash,Shadowrocket。
 
 选择最新的版本下载就可以，如果下载速度慢，在文件下载地址前面加上**https://ghproxy.com**这串字符，就可以进行代理加速。
 
