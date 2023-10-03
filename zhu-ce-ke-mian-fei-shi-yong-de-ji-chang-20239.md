@@ -17,7 +17,7 @@ description: 注册以后可以免费试用的机场
 * [_奈云(5G三天)_](https://naiunny.store/#/register?code=KfeBrj3u)
 * [_极光加速(10G两天) 节点很多_](https://jgjs02.com/#/register?code=WRLKZyUS)
 
-\*\*可付费购买可稳定使用的机场，可参考我的另一篇总结，\*\*🔥[_自用机场记录_](https://www.openwayz.com/jichang/)
+\*\*可付费购买可稳定使用的机场，可参考我的另一篇总结，\*\*🔥[_自用机场记录_](https://clashwin.org/jichangtuijian/)
 
 _**更多及时的分享可关注本文下方Tg频道**_
 
