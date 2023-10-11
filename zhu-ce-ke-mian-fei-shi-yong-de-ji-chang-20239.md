@@ -2,7 +2,7 @@
 description: 注册以后可以免费试用的机场
 ---
 
-# 注册可免费试用的机场（2023/9）
+# 注册可免费试用的机场（2023/10）
 
 部分机场给新注册赠送一定流量，限时优惠体验，喜欢撸羊毛用户可以多注册一些机场免费使用，觉得用起来比较好的再进行续费使用，这篇博客收集了提供免费体验的机场，持续更新。
 
@@ -10,9 +10,13 @@ description: 注册以后可以免费试用的机场
 
 #### 可试用机场列表
 
-* [_大讯云（10G两天）_](https://daxun.info/#/register?code=VLAYLLaS)
-* [_大哥云（10G一天）_](https://ab12y.com/#/register?code=6vTa3zI7)
 * [_TaiShan(5G一天)_](https://us.taishan.pro/#/register?code=Z4Y90y3y)
+* [_大哥云（10G一天）_](https://ab12y.com/#/register?code=6vTa3zI7)
+* [IPLCdog(100G一小时，新机场)](https://iplc.dog/reguser?aff=BZwFmuex)
+* [青森云Cyanmori(1G一天)](https://cccc.gg/auth/register?code=OrvAtN)
+* [_大讯云（10G两天）_](https://daxun.info/#/register?code=VLAYLLaS)
+* [万城网络（1G一小时 全专线冷门地区节点多）](https://shuttle.vcity-in.com/#/register?code=PNnRyq5s)
+* [NiceCloud(1G不限时）](https://nicecloud.co/reguser?aff=SaFZzRcI)
 * [_SSRdog(3G一天)_](https://dog.ssrdog111.com/#/register?code=O0dxApsX)
 * [_奈云(5G三天)_](https://naiunny.store/#/register?code=KfeBrj3u)
 * [_极光加速(10G两天) 节点很多_](https://jgjs02.com/#/register?code=WRLKZyUS)
