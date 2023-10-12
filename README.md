@@ -146,3 +146,13 @@ description: 收集推荐值得使用的较为稳定可靠的机场信息
 欢迎关注我的Telegram频道。
 
 🔥[_点击链接关注自由之路Freeway频道_](https://t.me/openwayz)
+
+#### 其他参考链接
+
+[Clash for Windows 使用教程快速入门](https://clashwin.org/)
+
+[Clash for Android 使用教程快速入门](https://clashwin.org/clashforandroid/)&#x20;
+
+[Shadowrocket小火箭美区共享帐号免费下载](https://clashwin.org/shadowrocket/)
+
+[Telegram注册国内+86手机收不到验证码怎么办？](https://clashwin.org/telegramregister/)
