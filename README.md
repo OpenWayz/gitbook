@@ -47,7 +47,7 @@ description: 收集推荐值得使用的较为稳定可靠的机场信息
 
 开业7年的一个老机场分站，拥有香港，新加坡，日本，美国节点，速度都挺快，不限制客户端，全部是IEPL专线，敏感期时也没问题，用他家的其实主打的是追求稳定，简单没太多套路，订阅套餐简单明了，各种流量倍率之类的都没有，网络延迟也很低，使用稳定，8月中旬时候出了两天故障连不上，解决后补偿一个月订阅，老板还是挺良心的，是目前找到的经营年限最长的，年付8折。
 
-[老猫云官网链接1](https://laomao.org/#/register?code=QiVFXFWX)\
+[老猫云官网链接1](https://laomaoyun.net/#/register?code=QiVFXFWX)\
 [老猫云官网链接2](https://laomao.co/#/register?code=QiVFXFWX)
 
 [老猫云机场测速及多媒体解锁情况可查看此链接](https://www.openwayz.com/laomao/)
