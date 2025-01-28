@@ -78,7 +78,7 @@ description: 收集推荐值得使用的平价不贵并且稳定可靠的机场�
 | 500G | 500G/月 |  ￥59/月 |
 | 按量付费 | 200G/年 | 149￥/年 |
 
-#### 其他参考链接
+#### 其他上外网需要注意的一些问题，收集参考链接
 
 [Clash for Windows 使用教程快速入门](https://clashwin.org/)
 
@@ -87,3 +87,7 @@ description: 收集推荐值得使用的平价不贵并且稳定可靠的机场�
 [Shadowrocket小火箭美区共享帐号免费下载](https://clashwin.org/shadowrocket/)
 
 [Telegram注册国内+86手机收不到验证码怎么办？](https://clashwin.org/telegramregister/)
+
+[如何解决TikTok打开显示无网络链接](https://www.openwayz.com/tiktok/)
+
+[如何尽量减少Instagram账号被风控](https://www.openwayz.com/instagram/)
