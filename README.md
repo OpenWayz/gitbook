@@ -35,7 +35,7 @@ description: 收集推荐值得使用的平价不贵并且稳定可靠的机场�
 [OTE Accelerator官网地址1](https://uso.oteacc.org/passport.html#/register?code=NJ0rQD4l)\
 [OTE Accelerator官网地址1](https://ust.oteacc.org/passport.html#/register?code=NJ0rQD4l)
 
-[OTE机场节点延迟及多媒体解锁情况可查看此链接](https://www.openwayz.com/OTE/)
+[OTE机场测评](https://www.openwayz.com/ote/)
 
 **套餐：**
 
